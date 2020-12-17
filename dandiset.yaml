@@ -43,7 +43,8 @@ keywords:
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
 number_of_subjects: 6
 organism:
-- species: Rattus norvegicus domestica - Long Evans
+- species: Rattus norvegicus
+  strain: Long Evans
 publications:
 - identifier: 'doi: 10.1016/j.neuron.2016.03.036'
   url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
