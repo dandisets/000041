@@ -2,9 +2,9 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000041
 # and obtained from the dandiarchive.
 age:
-  maximum: 3-7 months
-  minimum: 3-7 months
-  units: TODO
+  maximum: 3
+  minimum: 7
+  units: months
 contributors:
 - name: Brendon O. Watson
   orcid: ''
