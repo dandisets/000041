@@ -14,8 +14,7 @@ contributor:
   roleName:
   - dandi:Author
   schemaKey: Person
-- identifier: ' '
-  includeInCitation: true
+- includeInCitation: true
   name: Greene, J. Palmer
   roleName:
   - dandi:Author
