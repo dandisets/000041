@@ -2,33 +2,42 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000041
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
+about: []
 access:
-- status: dandi:Open
+- contactPoint:
+    schemaKey: ContactPoint
+  status: dandi:Open
 citation: 'Watson, Brendon O.; Levenstein, Daniel; Greene, J. Palmer; Gelinas, Jennifer
   N.; Buzsáki, György (2021) Network Homeostasis and State Dynamics of Neocortical
   Sleep. Online: https://dandiarchive.org/000041/draft'
 contributor:
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Watson, Brendon O.
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Levenstein, Daniel
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Greene, J. Palmer
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Gelinas, Jennifer N.
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  identifier: 0000-0002-3100-4800
+  includeInCitation: true
   name: Buzsáki, György
   roleName:
   - dandi:Author
@@ -43,6 +52,7 @@ description: 'Data was recorded using silicon probe electrodes in the frontal co
   995 putative excitatory units and 126 putative inhibitory units. Only recordings
   including a “WAKE-SLEEP” episode wherein at least 7 minutes of wake are followed
   by 20 minutes of sleep. On average 2 such WAKE-SLEEP episodes per recording session. '
+ethicsApproval: []
 id: 000041/draft
 identifier: DANDI:000041
 keywords:
@@ -50,12 +60,18 @@ keywords:
 - Sleep/awake states
 - Sleep stages
 - Homeostasis
+license: []
+manifestLocation: []
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
+protocol: []
 relatedResource:
 - identifier: 'doi: 10.1016/j.neuron.2016.03.036'
   relation: dandi:IsDescribedBy
   url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
+studyTarget: []
 url: https://dandiarchive.org/000041/draft
 version: draft
+wasGeneratedBy: []
