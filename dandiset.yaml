@@ -88,7 +88,8 @@ keywords:
 - Sleep stages
 - Homeostasis
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000041/versions/draft/assets/
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
 protocol: []
 relatedResource:
