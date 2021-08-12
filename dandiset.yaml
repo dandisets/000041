@@ -36,7 +36,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Watson, Brendon O.; Levenstein, Daniel; Greene, J. Palmer; Gelinas, Jennifer
   N.; Buzsáki, György (2021) Network Homeostasis and State Dynamics of Neocortical
-  Sleep (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000041/draft
+  Sleep (Version 0.210812.1515) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000041/0.210812.1515
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -70,6 +70,7 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+datePublished: '2021-08-12T15:15:38.643636'
 description: 'Data was recorded using silicon probe electrodes in the frontal cortices
   of male Long Evans rats between 4-7 months of age. The design was to have no specific
   behavior, task or stimulus, rather the animal was left alone in it’s home cage (which
@@ -80,8 +81,9 @@ description: 'Data was recorded using silicon probe electrodes in the frontal co
   995 putative excitatory units and 126 putative inhibitory units. Only recordings
   including a “WAKE-SLEEP” episode wherein at least 7 minutes of wake are followed
   by 20 minutes of sleep. On average 2 such WAKE-SLEEP episodes per recording session. '
+doi: 10.48324/dandi.000041/0.210812.1515
 ethicsApproval: []
-id: DANDI:000041/draft
+id: DANDI:000041/0.210812.1515
 identifier: DANDI:000041
 keywords:
 - Firing patterns
@@ -91,9 +93,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000041/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000041/0.210812.1515/assets.yaml
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
 protocol: []
+publishedBy:
+  endDate: '2021-08-12T15:15:38.643636'
+  id: urn:uuid:4b6a2801-6f95-440d-bfc2-2100a463c848
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-08-12T15:15:38.643636'
+  wasAssociatedWith:
+  - id: urn:uuid:7f4f7c9c-6f5b-4546-a885-b0b4f0264c42
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 'doi: 10.1016/j.neuron.2016.03.036'
   relation: dcite:IsDescribedBy
@@ -102,6 +116,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000041/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000041/0.210812.1515
+version: 0.210812.1515
 wasGeneratedBy: []
