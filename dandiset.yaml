@@ -43,6 +43,7 @@ contributor:
   name: Watson, Brendon O.
   roleName:
   - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
@@ -87,7 +88,8 @@ keywords:
 - Sleep/awake states
 - Sleep stages
 - Homeostasis
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000041/versions/draft/assets/
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
