@@ -98,6 +98,7 @@ name: Network Homeostasis and State Dynamics of Neocortical Sleep
 protocol: []
 relatedResource:
 - identifier: 'doi: 10.1016/j.neuron.2016.03.036'
+  name: Network Homeostasis and State Dynamics of Neocortical Sleep
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://www.sciencedirect.com/science/article/pii/S0896627316300563
