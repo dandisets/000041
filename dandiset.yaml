@@ -38,7 +38,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Watson, Brendon O.; Levenstein, Daniel; Greene, J. Palmer; Gelinas, Jennifer
   N.; Buzsáki, György (2025) Network Homeostasis and State Dynamics of Neocortical
-  Sleep (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000041/draft
+  Sleep (Version 0.250624.0419) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000041/0.250624.0419
 contributor:
 - affiliation:
   - identifier: https://ror.org/005dvqh91
@@ -103,8 +103,9 @@ description: "Data was recorded using silicon probe electrodes in the frontal co
   units. Only recordings including a “WAKE-SLEEP” episode wherein at least 7 minutes
   of wake are followed by 20 minutes of sleep. On average 2 such WAKE-SLEEP episodes
   per recording session. "
+doi: 10.48324/dandi.000041/0.250624.0419
 ethicsApproval: []
-id: DANDI:000041/draft
+id: DANDI:000041/0.250624.0419
 identifier: DANDI:000041
 keywords:
 - Firing patterns
@@ -114,7 +115,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000041/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000041/0.250624.0419/assets.yaml
 name: Network Homeostasis and State Dynamics of Neocortical Sleep
 publishedBy:
   endDate: '2025-06-24T04:19:33.987287+00:00'
@@ -139,6 +140,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.4.4
-url: https://dandiarchive.org/dandiset/000041/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000041/0.250624.0419
+version: 0.250624.0419
 wasGeneratedBy: []
