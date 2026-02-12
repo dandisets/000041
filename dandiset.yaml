@@ -53,6 +53,9 @@ contributor:
   - identifier: https://ror.org/0190ak572
     name: New York University
     schemaKey: Affiliation
+  - identifier: https://ror.org/05bnh6r87
+    name: Cornell University
+    schemaKey: Affiliation
   email: brendonw@umich.edu
   identifier: 0000-0002-9940-4579
   includeInCitation: true
