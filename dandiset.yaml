@@ -117,6 +117,48 @@ contributor:
   roleName:
   - dcite:DataCurator
   schemaKey: Person
+- awardNumber: K08MH107662
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01 MH054671
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01 MH107396
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: U01 NS090583
+  identifier: https://ror.org/01s5ya894
+  includeInCitation: false
+  name: National Institute of Neurological Disorders and Stroke
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: U01 NS090526
+  identifier: https://ror.org/01s5ya894
+  includeInCitation: false
+  name: National Institute of Neurological Disorders and Stroke
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: K12HD000850
+  identifier: https://ror.org/04byxyr05
+  includeInCitation: false
+  name: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2020-10-05T16:18:52.896000+00:00'
 description: "Data was recorded using silicon probe electrodes in the frontal cortices
   of male Long Evans rats between 4-7 months of age. The design was to have no specific
