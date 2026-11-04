@@ -28,16 +28,16 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: fourier analysis technique
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 147475904426
-  numberOfFiles: 21
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 149943954604
+  numberOfFiles: 22
   numberOfSubjects: 10
   schemaKey: AssetsSummary
   species:
@@ -50,9 +50,9 @@ assetsSummary:
   variableMeasured:
   - Units
   - LFP
-  - ElectricalSeries
   - DecompositionSeries
   - SpikeEventSeries
+  - ElectricalSeries
   - ProcessingModule
   - ElectrodeGroup
 citation: Watson, Brendon O.; Levenstein, Daniel; Greene, J. Palmer; Gelinas, Jennifer
